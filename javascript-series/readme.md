@@ -2,6 +2,7 @@
 
 ## JavaScript Module Fundamentals
 
+> 10 Jun 2016
 
 https://app.pluralsight.com/library/courses/javascript-module-fundamentals/table-of-contents
 
