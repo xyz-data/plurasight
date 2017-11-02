@@ -1,6 +1,18 @@
 # javascript series
 
 
+
+## Practical Design Patterns in JavaScript
+
+> 15 Jan 2016
+
+https://app.pluralsight.com/library/courses/javascript-practical-design-patterns/table-of-contents
+
+
+
+
+
+
 ## javascript-design-patterns
 
 > 18 Apr 2012
@@ -47,6 +59,15 @@ https://app.pluralsight.com/library/courses/javascript-objects-prototypes/table-
 > 17 Sep 2014
 
 https://app.pluralsight.com/library/courses/javascript-fundamentals-es6/table-of-contents
+
+
+
+## Rapid ES6 Training
+
+> 5 Apr 2016
+
+https://app.pluralsight.com/library/courses/rapid-es6-training/table-of-contents
+
 
 
 
