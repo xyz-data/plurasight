@@ -1,5 +1,14 @@
 # javascript series
 
+## JavaScript Module Fundamentals
+
+
+https://app.pluralsight.com/library/courses/javascript-module-fundamentals/table-of-contents
+
+https://app.pluralsight.com/paths/skills/angular
+
+
+
 
 
 ## Practical Design Patterns in JavaScript
